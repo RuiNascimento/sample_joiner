@@ -3,7 +3,6 @@
 
 import pandas as pd
 from pandas import ExcelWriter
-import time
 from io import StringIO
 import io
 import os

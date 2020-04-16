@@ -4,6 +4,3 @@ channels:
 dependencies:
   - python
   - pandas
-  - time
-  - io
-  - os
