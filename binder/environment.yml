@@ -1,0 +1,9 @@
+name: simple-merger-enviroment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - time
+  - io
+  - os
